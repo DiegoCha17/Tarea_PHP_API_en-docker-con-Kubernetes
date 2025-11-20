@@ -1,11 +1,3 @@
-# 🌤️ Proyecto: Aplicación Web en PHP — Clima con Open-Meteo  
-**ITI UTN — Tarea: Despliegue con Docker + Kubernetes local**  
-
-> ✅ Aplicación web básica que consulta clima en tiempo real  
-> 🐳 Contenerizada con Docker  
-> ☸️ Orquestada en clúster local de Kubernetes (Docker Desktop en Windows)  
-
----
 
 ## ⚙️ Requisitos Previos
 
